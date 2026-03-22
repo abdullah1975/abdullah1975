@@ -13,7 +13,7 @@
 - ↗️ As an IT student, I constantly learn and explore new technologies to improve my skills.
 - 🧩 I have been working as a graphic designer for some time.
 - 💻 I'm studying web(I love frontend).
-- 👨‍💻 Check out my portfolio at https://abdullah-ff2048.netlify.app/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://abdullah.fitgoals.online to see some of the projects I've worked on.
 
 
 ### Connect with Me :
